@@ -12,7 +12,7 @@
 	<artifactId>smartcontactmanger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>smartcontactmanger</name>
-	<description>First Spring boot project</description>
+	<description>Web project using Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
