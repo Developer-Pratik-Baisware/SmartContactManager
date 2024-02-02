@@ -8,6 +8,7 @@ public class SmartcontactmangerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SmartcontactmangerApplication.class, args);
+		System.out.println("loading...");
 	}
 
 }
